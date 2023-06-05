@@ -27,12 +27,19 @@
 
 There are multiple options to turn a wheeled robot.
 
-The first option is to make one motor turn faster than the opposite motor.
+> The first option is to make one motor turn faster than the opposite motor. You can do this by declaring the motor speed at the start of the program block.
+> ![One motor faster](./images/one_motor_faster.png)
 
-The second option is to stop one motor and turn the opposite motor.
+> A second option is to stop one motor and just have the opposite motor continue to turn.
+> ![One motor stops](./images/one_motor_stop.png)
 
-The third option is to turn opposing motors in opposite directions.
+> A third option is to turn opposing motors in the same clock direction. This will cause the robot to pivot around it's center point.
+> ![Same Direction Spin](./images/same_direction_spin.png)
 
-Another option is to have a tail motor that acts as a rudder to point the robot in the direction you want the robot to travel.
+> Still another option is to have a tail motor that acts as a rudder point the robot in the direction you want the robot to travel. The tail motor can only rotate a small amount otherwise it will collide with the lego bricks on the under side of the robot. You can experiment with a rotation of less that .1.
 
 ## Utilizing the distance sensors
+
+You have the option to utilize the eye distance sensor on the robot. However, the programming may be more challenging and could cost your team some extra time in the build and program process. Here's an example piece of code if you would like to test out the eye sensors.
+
+> ![Eye Sensor Stop Motors](images/eye_sensor_stop.png)

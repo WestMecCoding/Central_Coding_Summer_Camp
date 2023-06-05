@@ -8,7 +8,7 @@
 >
 > - Use school-appropriate and professional language (No Swearing)
 > - Keep hands, arms, legs and feet to self
-> - Keep0 all personal items and borrowed items at your table space. (Never throw objects)
+> - Keep all personal items and borrowed items at your table space. (Never throw objects)
 > - Stay on task
 > - Raise your hand any time you have a question or need further instruction
 > - Stay seated unless explicitly told otherwise
@@ -26,6 +26,7 @@
 >
 > - This means never turn motors or tires by hand.
 > - Also, never push the robots along a surface such as a table top or floor.
+> - Never leave a bot unattended or spinning against an object. Collect any run away bots immediately.
 
 > If a part seems to need excessive force to be removed or inserted, seek the help of an advisor student or teacher.
 
